@@ -20,11 +20,11 @@ print("El curso2 es: ", curso2)
 if curso1 == "Requerimientos" and curso2== "Algoritmos":
     print("Usted estudia Programación de Software")
 else:
-    print("Usted estudia otro programa diferente a Programación de Software")
+    print("Usted esta estudiando otro programa diferente a Programación de Software")
 print()
 print("*** Final del analisis del Programa de Formación ***")
 print()
-frase =input("Digite una frase: ")
+frase = input("Digite una frase: ")
 print("La frase en Mayuscula es: ", frase.upper())
 longitud = len(frase)
 print("La longitud de la frase es: ", longitud, "caracteres")
