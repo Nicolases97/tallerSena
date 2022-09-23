@@ -20,7 +20,7 @@ print("El curso2 es: ", curso2)
 if curso1 == "Requerimientos" and curso2== "Algoritmos":
     print("Usted estudia Programación de Software")
 else:
-    print("Usted estudia otro programa diferente a Programación de Software")
+    print("Usted esta estudiando otro programa diferente a Programación de Software")
 print()
 print("*** Final del analisis del Programa de Formación ***")
 print()
