@@ -39,4 +39,3 @@ for character in amistad:
 print("Fin del ciclo")
 print()
 print("FIN")
-
